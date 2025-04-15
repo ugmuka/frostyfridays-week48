@@ -1,0 +1,7 @@
+definition_version: 2
+env:
+  database: "DB_NAME"
+  schema: "PUBLIC"
+  name: your_name
+  query_seconds: 60
+  email: email@example.com

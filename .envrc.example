@@ -1,0 +1,7 @@
+export SNOWFLAKE_ACCOUNT=<account locator>
+export SNOWFLAKE_USER=yuji.mukai
+export SNOWFLAKE_AUTHENTICATOR=SNOWFLAKE_JWT
+export SNOWFLAKE_PRIVATE_KEY_RAW="-----BEGIN PRIVATE KEY-----
+MII...
+-----END PRIVATE KEY-----
+"
